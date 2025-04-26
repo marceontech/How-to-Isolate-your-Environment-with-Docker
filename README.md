@@ -102,7 +102,7 @@ This ensures the repository is isolated within the container!!!
 
 ---
 
-### **Step 9: Clean Up**
+### **Step 9: Close & Discard Environment**
 Once you're done analyzing the source code of your security audit or job interview github repo code :
 1. Stop the container:
    ```bash
